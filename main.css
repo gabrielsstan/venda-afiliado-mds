@@ -63,7 +63,7 @@
 
         .banner img{
         width: 100%;
-        max-width: 800px;
+        /* max-width: 800px; */
         height: auto;
         border-radius: 10px;
         margin: 0;
@@ -252,6 +252,9 @@
         }
         .product-card{
           max-width: 25rem;
+        }
+        .product-image{
+          height: 18rem;
         }
         section{
           display: flex;
