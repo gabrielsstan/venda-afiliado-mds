@@ -286,11 +286,12 @@
         .hide{
           display: flex;
           justify-content: center;
-          width: 100%;
+          width: fit-content;
           color: white;
           background-color: #007bff;
-          padding: .5rem;
+          padding: .5rem 1rem;
           margin-bottom: 1rem;
+          border-radius: 2rem;
         }
         .hide_search{
           display: inline-block;
